@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">잡화</string>
+    <string name="app_name">정수현입니다.</string>
     <string name="title">Starry Night</string>
     <string name="artist">고흐</string>
     <string name="desc">
@@ -9,6 +9,6 @@
         굽이치는 두꺼운 붓놀림으로 사이프러스와 연결되고, 그 아래의 마을은 대조적으로 고요하고 평온한
         상태를 보여준다.\n
         그는 병실 밖으로 내다보이는 밤 풍경을 상상과 결합시켜 그렸는데, 이는 자연에 대한 반 고흐의
-        내적이고 주관적인 표현을 구현하고 있다.
+        내적이고 주관적인 표현을 구현하고
     </string>
 </resources>
